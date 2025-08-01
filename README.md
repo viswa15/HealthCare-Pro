@@ -200,4 +200,4 @@ This project is built as a demonstration of modern React development practices a
 
 ---
 
-Built with ❤️ using React, TypeScript, and Tailwind CSS
+Built using React, TypeScript, and Tailwind CSS
